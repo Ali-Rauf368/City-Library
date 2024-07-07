@@ -2,12 +2,6 @@
 
 This project is a static website for the Knowledge Hub, a central library dedicated to humanities and social sciences research in Berlin. The website features various sections such as the header, navigation bar, main content with a carousel, welcome section, events section, and footer.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Features](#features)
 ## Features
 
 ## Header
